@@ -9,6 +9,8 @@
 - [Deep Inside Convolutional Networks](http://arxiv.org/pdf/1312.6034.pdf)
 - [Character Level Convolutional Networks for Text Classification](http://arxiv.org/pdf/1509.01626v2.pdf)
 - [Learning to Diagnose with LSTM and NNs](http://arxiv.org/pdf/1511.03677.pdf)
+
+
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
 
