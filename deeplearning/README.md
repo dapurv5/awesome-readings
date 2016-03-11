@@ -15,7 +15,7 @@
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
 - [Karpathy Blogpost on RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-
+- [RNN tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 
 
 
