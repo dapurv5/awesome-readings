@@ -14,7 +14,7 @@
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
-
+- [Karpathy Blogpost on RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 
 
