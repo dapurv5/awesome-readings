@@ -4,4 +4,4 @@
 - [Latent Semantic Indexing](http://nlp.stanford.edu/IR-book/pdf/18lsi.pdf)
 - [TW-IDF](http://frncsrss.github.io/papers/rousseau-cikm2013.pdf)
 - [LSML: Local supervised metric learning (patient similarity)](http://kdd.org/exploration_files/V14-01-03-Sun.pdf)
-
+- [Clustering if Efficient For Maximum Inner Product Search](http://arxiv.org/pdf/1507.05910.pdf)
