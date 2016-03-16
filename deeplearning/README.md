@@ -10,6 +10,10 @@
 - [Character Level Convolutional Networks for Text Classification](http://arxiv.org/pdf/1509.01626v2.pdf)
 - [Learning to Diagnose with LSTM and NNs](http://arxiv.org/pdf/1511.03677.pdf)
 - [Neural Network Based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)
+- [Skip Thought Vectors](http://papers.nips.cc/paper/5950-skip-thought-vectors.pdf)
+- [A Neural Probabilistic Language Model](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/BengioDucharmeVincentJanvin2003.pdf)
+- [Efficient Estimation of Word Representations](http://arxiv.org/pdf/1301.3781.pdf)
+- [Distributed Representation of Words and Phrases and Their Compositionality](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf)
 
 
 #### Misc
