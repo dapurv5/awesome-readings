@@ -14,9 +14,6 @@
 - [A Neural Probabilistic Language Model](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/BengioDucharmeVincentJanvin2003.pdf)
 - [Efficient Estimation of Word Representations](http://arxiv.org/pdf/1301.3781.pdf)
 - [Distributed Representation of Words and Phrases and Their Compositionality](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf)
-
-
-
 - [Deep Visual Semantic Alignments for Generating Image Descriptors](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 
