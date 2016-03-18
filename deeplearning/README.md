@@ -16,6 +16,10 @@
 - [Distributed Representation of Words and Phrases and Their Compositionality](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/readings/MikolovSutskeverChenCorradoDean2013.pdf)
 
 
+
+- [Deep Visual Semantic Alignments for Generating Image Descriptors](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
+
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
 - [Karpathy Blogpost on RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
