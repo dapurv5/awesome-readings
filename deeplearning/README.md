@@ -18,10 +18,12 @@
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Reasoning with Neural Tensor Networks](http://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf)
 - [Graphical Models in a Nutshell](http://www.seas.upenn.edu/~taskar/pubs/gms-srl07.pdf)
+- 
 
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
 - [Karpathy Blogpost on RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [RNN tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+- [Visualizing and Understading Neural Networks](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
