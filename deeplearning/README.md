@@ -18,7 +18,7 @@
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Reasoning with Neural Tensor Networks](http://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf)
 - [Graphical Models in a Nutshell](http://www.seas.upenn.edu/~taskar/pubs/gms-srl07.pdf)
-- 
+- [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) 
 
 
 #### Misc
