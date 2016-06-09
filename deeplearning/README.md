@@ -19,7 +19,7 @@
 - [Reasoning with Neural Tensor Networks](http://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf)
 - [Graphical Models in a Nutshell](http://www.seas.upenn.edu/~taskar/pubs/gms-srl07.pdf)
 - [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) 
-
+- [An Introduction to Restricted Boltzmann Machines](http://image.diku.dk/igel/paper/AItRBM-proof.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
