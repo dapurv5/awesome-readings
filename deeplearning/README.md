@@ -21,6 +21,7 @@
 - [Large Scale Distributed Deep Networks](https://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf) 
 - [An Introduction to Restricted Boltzmann Machines](http://image.diku.dk/igel/paper/AItRBM-proof.pdf)
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks](http://jan.stanford.edu/pubs/2010SocherManningNg.pdf)
+- [Applying Deep Learning to answer selection](http://arxiv.org/pdf/1508.01585v2.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
