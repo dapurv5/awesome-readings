@@ -25,6 +25,7 @@
 
 #### Images
 - [Image tracking of Vehicle Make and Model using Convolutional Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/lediurfinal.pdf)
+
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
 - [Karpathy Blogpost on RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
