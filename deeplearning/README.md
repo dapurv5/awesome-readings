@@ -1,6 +1,5 @@
 ## Deep Learning
 
-#### Papers
 - [Efficient Sparse Encoding](http://papers.nips.cc/paper/2979-efficient-sparse-coding-algorithms.pdf)
 - [Stochastic Gradient Descent Tricks](http://research.microsoft.com/pubs/192769/tricks-2012.pdf)
 - [Efficient Backprop](https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf)
@@ -25,6 +24,9 @@
 
 #### Images
 - [Image tracking of Vehicle Make and Model using Convolutional Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/lediurfinal.pdf)
+
+#### QA
+- [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
