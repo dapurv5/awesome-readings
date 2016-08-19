@@ -27,6 +27,7 @@
 
 #### QA
 - [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
+- [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
