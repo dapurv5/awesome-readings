@@ -28,6 +28,7 @@
 #### QA
 - [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
 - [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
+- [Towards AI-Complete Question Answering: A set of prerequisite toy tasks](http://arxiv.org/pdf/1502.05698v10.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
