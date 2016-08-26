@@ -30,6 +30,7 @@
 - [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 - [Towards AI-Complete Question Answering: A set of prerequisite toy tasks](http://arxiv.org/pdf/1502.05698v10.pdf)
 - [Large Scale simple question answering with Memory Networks](https://arxiv.org/pdf/1506.02075v1.pdf)
+- [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v5.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
