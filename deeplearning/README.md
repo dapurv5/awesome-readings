@@ -32,6 +32,7 @@
 - [Large Scale simple question answering with Memory Networks](https://arxiv.org/pdf/1506.02075v1.pdf)
 - [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v5.pdf)
 - [Key-Value Memory Networks for directly understanding documents](https://arxiv.org/pdf/1606.03126v1.pdf)
+- [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL15-STAGG.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
