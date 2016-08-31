@@ -34,6 +34,7 @@
 - [Key-Value Memory Networks for directly understanding documents](https://arxiv.org/pdf/1606.03126v1.pdf)
 - [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL15-STAGG.pdf)
 - [Value of Semantic Parse Labeling for KBQA](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/acl2016-webqsp.pdf)
+- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
