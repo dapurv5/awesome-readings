@@ -37,6 +37,7 @@
 - [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf)
 - [Open Question Answering with Weakly Supervised Embedding Models](https://arxiv.org/pdf/1404.4326.pdf)
 - [Learning End-to-End Goal-Oriented dialog](https://arxiv.org/pdf/1605.07683v2.pdf)
+- [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/IS16_ContextualSLU.pdf)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
