@@ -21,6 +21,8 @@
 - [An Introduction to Restricted Boltzmann Machines](http://image.diku.dk/igel/paper/AItRBM-proof.pdf)
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks](http://jan.stanford.edu/pubs/2010SocherManningNg.pdf)
 - [Applying Deep Learning to answer selection](http://arxiv.org/pdf/1508.01585v2.pdf)
+- [Adding Gradient Noise Improves Learning For Very Deep Networks](http://arxiv.org/pdf/1511.06807v1.pdf)
+
 
 #### Images
 - [Image tracking of Vehicle Make and Model using Convolutional Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/lediurfinal.pdf)
