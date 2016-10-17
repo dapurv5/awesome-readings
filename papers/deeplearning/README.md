@@ -28,21 +28,7 @@
 - [Image tracking of Vehicle Make and Model using Convolutional Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/lediurfinal.pdf)
 
 #### QA
-- [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)
-- [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
-- [Towards AI-Complete Question Answering: A set of prerequisite toy tasks](http://arxiv.org/pdf/1502.05698v10.pdf)
-- [Large Scale simple question answering with Memory Networks](https://arxiv.org/pdf/1506.02075v1.pdf)
-- [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v5.pdf)
-- [Key-Value Memory Networks for directly understanding documents](https://arxiv.org/pdf/1606.03126v1.pdf)
-- [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL15-STAGG.pdf)
-- [Value of Semantic Parse Labeling for KBQA](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/acl2016-webqsp.pdf)
-- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf)
-- [Open Question Answering with Weakly Supervised Embedding Models](https://arxiv.org/pdf/1404.4326.pdf)
-- [Learning End-to-End Goal-Oriented dialog](https://arxiv.org/pdf/1605.07683v2.pdf)
-- [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/IS16_ContextualSLU.pdf)
-- [Question Answering over Knowledge Base With Neural Attention Combining Global Knowledge Information](https://arxiv.org/pdf/1606.00979v1.pdf)
-- [Compositional Learning of Embeddings for Relation Paths in Knowledge Bases and Texts](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/              acl2016relationpaths-1.pdf)
-- [Neural Machine Translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473v7.pdf)
+- [awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
 
 #### Misc
 - [Sparse Encoding](https://www.cs.utexas.edu/~leif/pubs/20130626-scipy-johnson.pdf)
