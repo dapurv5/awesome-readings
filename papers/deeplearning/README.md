@@ -35,4 +35,4 @@
 - [Karpathy Blogpost on RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [RNN tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 - [Visualizing and Understading Neural Networks](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
-
+- [Attention and Memory](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
