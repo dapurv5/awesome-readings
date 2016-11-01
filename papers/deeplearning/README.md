@@ -26,6 +26,8 @@
 
 #### Images
 - [Image tracking of Vehicle Make and Model using Convolutional Neural Networks and Transfer Learning](http://cs231n.stanford.edu/reports/lediurfinal.pdf)
+- [DenseNet](https://arxiv.org/pdf/1608.06993v1.pdf)
+
 
 #### QA
 - [awesome-question-answering](https://github.com/dapurv5/awesome-question-answering)
